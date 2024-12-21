@@ -1,5 +1,5 @@
 <h1>Conversor de monedas</h1>
-Este proyecto se basa en la conversión de monedas desarrollada en Java como parte de challenge de Alura ONE.
+<p>Este proyecto se basa en la conversión de monedas desarrollada en Java como parte del challenge de Alura ONE.</p>
 
 <h3>Monedas para convertir</h3>
 <ul>
@@ -9,4 +9,11 @@ Este proyecto se basa en la conversión de monedas desarrollada en Java como par
 <li>CLP - Peso chileno</li>
 <li>COP - Peso colombiano</li>
 <li>USD - Dólar estadounidense</li>
+</ul>
+
+<h3>Librerías utilizadas</h3>
+<ul>
+<li>Gson - para manejo de JSON</li>
+<li>HttpClient - para realizar solicitudes HTTP</li>
+<li>Request y Response - para modelar las solicitudes y respuestas HTTP</li>
 </ul>
